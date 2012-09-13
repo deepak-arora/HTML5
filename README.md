@@ -1,4 +1,4 @@
 HTML5
 =====
 
-A Repository of Javascript Code
+A repository of HTML 5 games and useful codes.
